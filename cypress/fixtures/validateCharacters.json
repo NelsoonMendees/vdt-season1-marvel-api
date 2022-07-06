@@ -1,0 +1,28 @@
+{
+    "validaCampos": [
+        {
+            "campo": "name",
+            "alias": "Mercurio",
+            "team": ["Vingadores da costa oeste", "Irmandade de mutantes"],
+            "active": true
+        },
+        {
+            "campo": "alias",
+            "name": "Pietro Maximoff",
+            "team": ["Vingadores da costa oeste", "Irmandade de mutantes"],
+            "active": true
+        },
+        {
+            "campo": "team",
+            "name": "Pietro Maximoff",
+            "alias": "Mercurio",
+            "active": true
+        },
+        {
+            "campo": "active",
+            "name": "Pietro Maximoff",
+            "alias": "Mercurio",
+            "team": ["Vingadores da costa oeste", "Irmandade de mutantes"]
+        }
+    ]
+}

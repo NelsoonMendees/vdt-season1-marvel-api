@@ -1,0 +1,8 @@
+{
+    "Rogers": {
+        "name": "Steve Rogers",
+        "alias": "Capitão America",
+        "team": ["Avengers"],
+        "active": true
+    }
+}

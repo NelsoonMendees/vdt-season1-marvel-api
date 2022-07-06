@@ -1,0 +1,29 @@
+{
+    "Characters":[
+        {
+            "name": "Stephen Vincent Strange",
+            "alias": "Doutor Estranho",
+            "team": ["Avengers", "Illuminati", "Os Defensores"],
+            "active": true
+        },
+        {
+            "name": "Wade W. Wilson",
+            "alias": "Deadpool",
+            "team": ["Quatro Terríveis"],
+            "active": true
+        },
+        {
+            "name": "Bruce Banner",
+            "alias": "Hulk",
+            "team": ["Avengers", "Os Defensores"],
+            "active": true
+        }
+    ],
+    
+    "Titan": {
+        "name": "Thanos",
+        "alias": "Titã Louco",
+        "team": ["Ordem Negra"],
+        "active": true
+    }
+}

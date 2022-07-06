@@ -1,0 +1,8 @@
+{
+    "Wanda": {
+        "name": "Wanda Maximoff",
+        "alias": "Feiticeira Escarlate",
+        "team": ["Avengers"],
+        "active": true
+    }
+}

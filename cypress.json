@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://marvel-qa-cademy.herokuapp.com",
+    "viewportWidth": 1440,
+    "viewportHeight": 960,
+    "video": false
+}

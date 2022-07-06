@@ -1,0 +1,8 @@
+{
+    "Cyclops": {
+        "name": "Scott Summers",
+        "alias": "Cyclops",
+        "team": ["X-Men"],
+        "active": true
+    }
+}
